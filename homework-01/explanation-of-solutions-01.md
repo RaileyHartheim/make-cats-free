@@ -1,6 +1,7 @@
 ## Объяснение решений
 
 ### Event Storming
+![Event Storming](https://raw.githubusercontent.com/RaileyHartheim/make-cats-free/refs/heads/main/homework-01/ES-01.png)
 
 #### Были выделены следующие контексты:
 - создание пользователей и менеджеров;
@@ -23,11 +24,11 @@
 
 ### Модель данных
 
-
+![Data Model](https://raw.githubusercontent.com/RaileyHartheim/make-cats-free/refs/heads/main/homework-01/data-model-01.png)
 
 ### Общая модель коммуникаций
 
-
+![Communication Schema](https://raw.githubusercontent.com/RaileyHartheim/make-cats-free/refs/heads/main/homework-01/communication-schema-01.png)
 
 ### Как реализовать проект?
 
