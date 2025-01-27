@@ -24,7 +24,7 @@
 
 #### Core Domain Chart
 
-![Core Domain Chart](https://github.com/RaileyHartheim/make-cats-free/blob/main/homework-02/core-domain-chart-MCF-02.png?raw=true)
+![Core Domain Chart](https://github.com/RaileyHartheim/make-cats-free/blob/main/homework-02/MCF-core-domain-chart-02.png?raw=true)
 
 Планируем, что матчинг в будущем заметно усложнится.
 
