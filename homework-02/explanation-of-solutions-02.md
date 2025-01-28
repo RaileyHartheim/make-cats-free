@@ -47,13 +47,15 @@
 
 Кажется, Event Storming надо переделывать...
 
-### Event Storming и модель данных (guess, who's back, back again?..)
+### Event Storming и модель данных
 
-И нет, это не Слим Шейди.
+![](https://media.tenor.com/JF49Wc6yTgoAAAAe/eminem-mask.png)
 
-Тут ожидается картинка ES
+И нет, это не Слим Шейди, а Event Storming и модель данных — правда, слегка обновленные.
 
-А еще модель данных
+![Event Storming](https://github.com/RaileyHartheim/make-cats-free/blob/main/homework-02/ES_02.png?raw=true)
+
+![Data model](https://github.com/RaileyHartheim/make-cats-free/blob/main/homework-02/data_model_02.png?raw=true)
 
 ### Выделенные характеристики
 Пробежимся по требованиям:
@@ -92,6 +94,6 @@
 
 Каждому поддомену — свой сервис!
 
-Вот тут обещают модель показать.
+![Итоговая модель](https://github.com/RaileyHartheim/make-cats-free/blob/main/homework-02/final-structure-02.png?raw=true)
 
 Коммуникации синхронные, поскольку с асинхронной коммуникацией не слишком знакома.
